@@ -9,7 +9,7 @@ I'm **Josue Leyva**, a passionate Full Stack Developer from **Mexico City** but 
 
 ### 🚀 About Me
 
-I love working on both front-end and back-end projects, specializing in **HTML** and ****. I focus on making development smooth and scalable, whether it's building a sleek web app, or creating efficient database solutions. 
+I love working on both front-end and back-end projects, specializing in **HTML** and **CSS**. I focus on making development smooth and scalable, whether it's building a sleek web app, or creating efficient database solutions. 
 
 **Fun Fact:** I’m always on the lookout for new tech that can streamline work and make life easier.
 
