@@ -3,7 +3,14 @@
 
 ### Hey there! 👋 Welcome to my GitHub!
 
-I'm **Josue Leyva**, a passionate Full Stack Developer from **Mexico City** but currently I am cerifying my skills in the **Cumorah Acdemy** in the **Czech Rpeublic** 🌎. I’m here to help turn ideas into powerful, tech-driven solutions!
+I am a passionate programmer with a focus on web development and tech innovation. Proficient in HTML, CSS, and Python, I enjoy creating dynamic, responsive websites and building efficient solutions for real-world problems. With a keen interest in both front-end and back-end development, I am continuously learning and improving my skills to stay at the forefront of technology.
+
+💻 Languages: HTML, CSS, Python
+🌐 Web Development: Creating user-friendly, visually appealing websites
+🧠 Problem-Solving: Strong analytical skills to tackle complex coding challenges
+🚀 Continuous Learning: Enthusiastic about learning new programming languages, frameworks, and tools to drive innovation
+🤝 Collaboration: Experience in team collaboration and project management, ensuring smooth execution of projects
+I am eager to connect with like-minded developers and contribute to exciting projects in the tech industry. Feel free to explore my repositories and get in touch!
 
 ---
 
