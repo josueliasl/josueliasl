@@ -29,6 +29,7 @@ I love working on both front-end and back-end projects, specializing in **HTML**
 ### 🌟 Featured Projects
 - [**Whitewater Rafting website**](https://josueliasl.github.io/wdd130/wwr/about.html) - A demo of my skills
 - [**Profile page**](https://josueliasl.github.io/wdd130/) – A brief description of myself
+- [**Dynamic Catalog**(https://josueliasl.github.io/wdd131/week06/final_project) 
 
 ---
 ### 🤝 How I Can Help
