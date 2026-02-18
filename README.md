@@ -5,7 +5,7 @@
 
 I am a passionate programmer with a focus on web development and tech innovation. Proficient in HTML, CSS, and Python, I enjoy creating dynamic, responsive websites and building efficient solutions for real-world problems. With a keen interest in both front-end and back-end development, I am continuously learning and improving my skills to stay at the forefront of technology.
 
-💻 Languages: HTML, CSS, Python
+💻 Languages: HTML, CSS, Python, C++, C#, JS
 🌐 Web Development: Creating user-friendly, visually appealing websites
 🧠 Problem-Solving: Strong analytical skills to tackle complex coding challenges
 🚀 Continuous Learning: Enthusiastic about learning new programming languages, frameworks, and tools to drive innovation
